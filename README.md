@@ -1,8 +1,6 @@
-# 👋 Welcome to Charlotte Hope's GitHub Profile!
+# 👋 Welcome to my GitHub Profile!
 
-## 🤔 Who Am I?
-
-Hi, I'm *Charlotte*, currently working at [Spleis](www.spleis.no). I specialize in Front-end and I'm based in the great city of Stavanger, Norway 🇳🇴.
+Hi, I'm **Charlotte**, currently working at [Spleis](https://www.spleis.no/). I specialize in Front-end and I'm based in the great city of Stavanger, Norway 🇳🇴.
 
 ## 📫 How to Reach Me
 
